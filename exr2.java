@@ -38,7 +38,7 @@ public class exr1 {
 	                line = buffer.readLine();
 	            }
 	        } catch(IOException e) {
-	            System.out.println("Chamada inv·lida.");
+	            System.out.println("Chamada inv√°lida.");
 	        }
 	    }
 	    public void mataPid(int pid) {
